@@ -1,0 +1,6 @@
+INSTALLED THE NODE JS
+Ran the command on cmd : node --version
+output: v6.10.0
+
+Ran the command on cmd: npm --version
+output:3.10.10
